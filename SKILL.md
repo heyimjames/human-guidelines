@@ -52,7 +52,7 @@ Output a **Taste Profile** summary they can save.
 - Collect references obsessively
 - Define your vibe and commit
 - Handcrafted details compound
-- Prioritize feel over features
+- Prioritize feel over features (in product UI, "feel" = responsiveness and flow; on marketing pages, "feel" = mood and first impressions)
 
 ### Micro-interactions
 - Animation is personality—choose deliberately
@@ -60,13 +60,33 @@ Output a **Taste Profile** summary they can save.
 - Stagger list reveals (30-50ms delay)
 - Design exits as carefully as entrances
 - Every interactive element needs hover feedback
+- Scale animation to context: marketing can be dramatic; product UI should be invisible by the 5th view
 
 ### Key Checks
 - **Dark mode**: Never pure black (#000000), use #1a1a1a
 - **Typography**: text-wrap: pretty, vary fonts
 - **Animation**: Organic easing, imperfect timing
-- **Layout**: Asymmetry over perfect grids
+- **Layout**: Asymmetry for marketing; consistent grids for product UI
 - **Icons**: Three states (stroke/duotone/solid)
+- **Density**: Marketing wants space; product UI depends on use case (dense for dashboards, spacious for onboarding)
+
+### Surface-Specific Guidance
+
+**Marketing & Landing Pages:**
+- First impression is everything—hero, scroll pacing, narrative flow
+- Brand expression lives here—be brave with creative risks
+- Social proof needs craft—real quotes, specific numbers, genuine photography
+- CTAs should feel inevitable, not pushy
+- Performance is invisible design—Core Web Vitals affect SEO and trust
+
+**In-App Product UI:**
+- Consistency beats novelty—users build muscle memory
+- Design for the 100th session, not the 1st
+- States are the real design work—loading, empty, error, partial, offline
+- Power users are watching—keyboard shortcuts, bulk actions, density toggles
+- Data is content—tables, charts, and lists deserve the same care as a hero section
+- Template patterns are a feature here—the craft is in execution quality, not structural novelty
+- Empty states are your biggest opportunity—they're the first thing new users see
 
 ---
 
